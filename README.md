@@ -54,8 +54,6 @@ Please feel free to contribute to the quality of this content by submitting PRs 
 
 Any contributions you make to this effort **are of course greatly appreciated**.
 
-But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
-
 ## License & Copyright
 
 The materials herein are all &copy; 2019-2020 Kyle Simpson.
